@@ -11,8 +11,8 @@
 ## SQL注入类
 
 + MSsql注入
-   + 基本注入语法
-   + 时间的盲注 
+   + [基本注入语法](https://github.com/mulcl/S_mucn/blob/main/SQL_injection/mssql.md)
+   + [时间的盲注]()
    + XP-cmdshell基本语法
    
 + MYsql注入
