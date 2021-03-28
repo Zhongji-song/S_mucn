@@ -13,7 +13,7 @@
 + MSsql注入
    + [基本注入语法](https://github.com/mulcl/S_mucn/blob/main/SQL_injection/mssql.md)
    + [时间的盲注](https://github.com/mulcl/S_mucn/blob/main/SQL_injection/mssql_time.md)
-   + XP-cmdshell基本语法
+   + [XP-cmdshell基本语法](https://github.com/mulcl/S_mucn/blob/main/SQL_injection/xp_cmdshell.md)
    
 + MYsql注入
    + slqmap常用tamper脚本
