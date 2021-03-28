@@ -26,7 +26,7 @@
 ## 漏洞利用类
 
 + RCE类
-   + PHPstudy后门
+   + [PHPstudy后门](https://github.com/mulcl/S_mucn/blob/main/RCE/phpstudy.md)
    + THINKphp5 RCE
    + REDIS未授权访问
    + shiro反序列化
