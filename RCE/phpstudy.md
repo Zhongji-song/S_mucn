@@ -1,14 +1,10 @@
 # phpstudy后门
 
 - **phpstudy后门影响版本**
-> 
+>
 phpstudy 2016版php-5.4
 phpstudy 2018版php-5.2.17
 phpstudy 2018版php-5.4.45
-
-
-<!--more-->
-
 
 - **后门位置**
 
