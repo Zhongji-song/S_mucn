@@ -19,6 +19,7 @@
    + slqmap常用tamper脚本
    + [mysql基本注入语法](https://github.com/mulcl/S_mucn/blob/main/SQL_injection/MYSQL.md)
    + [myslq基本盲注手法（布尔+时间）](https://github.com/mulcl/S_mucn/blob/main/SQL_injection/MYSQL%E7%9B%B2%E6%B3%A8.md)
+   + [mysql无列名注入](https://github.com/mulcl/S_mucn/blob/main/SQL_injection/%E6%97%A0%E5%88%97%E5%90%8D%E6%B3%A8%E5%85%A5.md)
    
 --------------------
 
