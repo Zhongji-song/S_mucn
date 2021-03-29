@@ -27,7 +27,7 @@
 
 + RCE类
    + [PHPstudy后门](https://github.com/mulcl/S_mucn/blob/main/RCE/phpstudy.md)
-   + THINKphp5 RCE
+   + [THINKphp5 RCE](https://github.com/mulcl/S_mucn/blob/main/RCE/Thinkphp5_RCE.md)
    + REDIS未授权访问
    + shiro反序列化
    + Jboos反序列化
